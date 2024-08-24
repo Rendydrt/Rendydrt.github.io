@@ -11,7 +11,7 @@
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.4.4/dist/sweetalert2.all.min.js"></script>
-<title>Dutheng</title>
+<title>Nadine jelek</title>
 <style>
 html {
 scroll-behavior: smooth;
@@ -156,24 +156,24 @@ transform: scale(1) translateY(5px);
 loop=""></audio>
 <div class="open">
 <div class="card">
-<h2>CAPEK YA KAMU</h2>
+<h2>HALO YUPI</h2>
 <img onclick="mulai()" src="e.jpg" alt="" srcset="" />
-<h3>Pencet dutheng kalo mau buka</h3>
+<h3>Pencet foto jeleknya kalo mau buka</h3>
 </div>
 </div>
 <div class="atas" id="atas">
 <img onclick="mulai()" src="i.jpg" alt="" />
-<h2>Scroll kebawah dutheng</h2>
+<h2>Scroll kebawah bau</h2>
 </div>
 
 <p data-aos="zoom-in">
-Capek banget kemarin ya cantik
+Ciee udah kepala 7
 </p>
 <p data-aos="zoom-in">
-Buang ya dutha bunganya, aku ganti pajang punyaku:)
+Apapun keputusan kamu ambil aku bakal support kok asal positif yaaa semangatt kuliahnyaa cantikk
 </p>
 <p data-aos="zoom-in">
-Next nangisnya bukan karena capek lagi ya, tapi karena doamu terkabul satu persatu. semoga aku bisa nemenin kamu terus
+Semoga kita bisa cepet ketemu yaa cantikk
 </p>
 
 
@@ -207,7 +207,7 @@ document.querySelector(".open").style.display = "none";
 
 function wa(isi) {
 window.open(
-"https://wa.me/6287819785198?text= jawaban mu? :  " +
+"https://wa.me/62895325421825?text= jawaban mu? :  " +
 isi);
 }
 async function tanya() {
